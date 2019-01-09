@@ -102,7 +102,8 @@ window.addEventListener("scroll", function(){
 });
 
 /*===========  Back to top button =====*/
-
+    $("#back-to-top").css({"visibility": "hidden"});
+      
     function backToTop() {
       var wScroll = $(window).scrollTop(); //store in a variable the scroll distance from the top
       console.log(wScroll);
