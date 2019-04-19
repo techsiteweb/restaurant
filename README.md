@@ -12,6 +12,7 @@ This is a responsive one-page site presenting UI/UX features including:
 * Scrollspy
 * Smooth Scroll
 * Parallax
+* NavBar Transform
 * Animations
 * Picture Gallery
 * Gradients
