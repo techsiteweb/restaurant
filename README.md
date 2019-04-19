@@ -7,7 +7,7 @@ Website suited for a restaurant business showcasing the services and products pr
 
 ## Introduction
 
-This is a responsive one-page site presenting UI/UX features including:
+This is a responsive one-page site presenting the following UI/UX features:
 
 * Scrollspy
 * Smooth Scroll
